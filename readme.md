@@ -1,6 +1,6 @@
 # Creating a Developer Journal, Project Portfolio, or Tutorials
 
-![A web developer working on his phone and computer](https://images.pexels.com/photos/5926389/pexels-photo-5926389.jpeg)
+![A web developer working on his phone and computer](./assets/images/developer-stock-image.jpeg)
 
 If you're a student learning web development, creating a **_developer journal_**, **_project portfolio_**, or **_tutorials_** can be a great way to showcase your progress, demonstrate your skills, and help others learn from your experiences. Here are some tips for getting started:
 
