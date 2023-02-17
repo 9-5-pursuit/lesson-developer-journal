@@ -28,4 +28,7 @@ Here is an example format:
 
 ---
 
-You'll find some more in-depth examples in this folder. Check them out for inspiration, but remember to be creative, this project should be created with your own style and flare.
+While the comprehensive examples below can serve as excellent sources of inspiration, it's important to make your project your own by infusing it with your personal style and creativity. Use the examples as a guide, but don't be afraid to add your own unique touch. The ultimate goal is to create something that truly reflects your individuality and showcases your originality.
+
+- [Personal Blog Example](./001_personal-blog.md)
+- [Movie Recommendation Engine Example](./002_movie-recommendation-engine.md)
